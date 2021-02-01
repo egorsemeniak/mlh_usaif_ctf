@@ -5,6 +5,7 @@ import requests
 def robots_parser():
     url = 'https://mlh-ctf-usaf-01.herokuapp.com/robots.txt'
     response = requests.get(url)
+    print(response)
     soup = BeautifulSoup(response.text, 'html.parser')
     print(soup)
 

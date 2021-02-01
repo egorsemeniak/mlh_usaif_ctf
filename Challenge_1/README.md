@@ -20,10 +20,10 @@ def robots_parser():
 
 Results indicated a few locations:
 
-![Main Page](solution_images/code_output.png)
+![Code Output](solution_images/code_output.png)
 
 _*note: URLs are randomly generated for each session._
 
 That allowed me to navigate to the page and revealed a hidden flag.
-![Main Page](solution_images/flag.png)
+![Flag](solution_images/flag.png)
 
