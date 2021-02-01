@@ -1,5 +1,5 @@
 # **U.S. Air Force Major League Hacking CTF**
-##**Challenge 1:**
+## **Challenge 1:**
 
 Challenge begins with a login page.
 ![Main Page](solution_images/main_page.png)
