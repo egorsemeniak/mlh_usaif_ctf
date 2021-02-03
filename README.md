@@ -3,7 +3,7 @@
 
 ![Challenges](images/challenges.png)
 ___
-## **[Challenge 1](Challenge_1: Solution)**
+## **[Challenge 1: Solution](Challenge_1)**
 ___
 
 ## **[Challenge 2](Challenge_2)**
