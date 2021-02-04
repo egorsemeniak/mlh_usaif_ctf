@@ -6,4 +6,4 @@ ___
 ## **[Challenge 1: Solution](Challenge_1)**
 ___
 
-## **[Challenge 2](Challenge_2)**
+## **[Challenge 2: Solutio](Challenge_2)**
